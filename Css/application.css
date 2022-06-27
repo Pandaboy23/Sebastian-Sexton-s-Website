@@ -605,8 +605,10 @@ ul {
   font-family: 'Nunito', sans-serif;
   font-size: 22px;
   text-transform: uppercase;
+  text
   letter-spacing: 1.3px;
   font-weight: 700;
+  text-decoration-color: #0000
   color: #313133;
   background: #4FD1C5;
 background: linear-gradient(90deg, rgba(129,230,217,1) 0%, rgba(79,209,197,1) 100%);

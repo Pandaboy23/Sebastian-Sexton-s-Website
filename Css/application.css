@@ -632,7 +632,7 @@ background: linear-gradient(90deg, rgba(129,230,217,1) 0%, rgba(79,209,197,1) 10
 }
 
 .wraper__picture {
-  width: 100%;
+  width: 50%;
   display: flex;
   align-items: center;
   justify-content: center;

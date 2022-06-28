@@ -631,11 +631,10 @@ background: linear-gradient(90deg, rgba(129,230,217,1) 0%, rgba(79,209,197,1) 10
   justify-content: center;
 }
 
-img {
-  min-width: 200px;
-  min-height: 350px;
-  width: 250;
+.wraper__picture {
+  width: 100%;
   display: flex;
   align-items: center;
-  justify-content: center; 
+  justify-content: center;
 }
+
